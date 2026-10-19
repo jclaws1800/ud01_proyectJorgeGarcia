@@ -15,4 +15,4 @@
 - `data/`: <what it contains>
 - `docs/`: <what it contains>
 ## Author
-**<Your name>** · [<your username>](https://github.com/jclaws1800/ud01_proyectJorgeGarcia<jclaws1800>)
+**<Jorge>** · [<Garcia>](https://github.com/jclaws1800/ud01_proyectJorgeGarcia<jclaws1800>)
